@@ -1,5 +1,9 @@
 # 💫 About Me:
-- Im currently working on my skill :)<br> - Im currently learning web dev<br> - Im interested in AOSP development<br> - Im looking to collaborate on any AOSP projects<br> - I like chess
+- Im currently working on my skill :)<br>
+- Im currently learning web dev<br>
+- Im interested in AOSP development<br>
+- Im looking to collaborate on any AOSP projects<br>
+- I like chess
 
 
 ## 🌐 Socials:
