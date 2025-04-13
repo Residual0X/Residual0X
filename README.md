@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on my skill :)<br>Im currently learning web dev<br>Im interested in AOSP development<br>Im looking to collaborate on any AOSP projects<br>I like chess
+- Im currently working on my skill :)<br> - Im currently learning web dev<br> - Im interested in AOSP development<br> - Im looking to collaborate on any AOSP projects<br> - I like chess
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ Im currently working on my skill :)<br>Im currently learning web dev<br>Im inter
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Residual0X&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Residual0X&icon=0&color=0)](https://visitcount.itsvg.in)
